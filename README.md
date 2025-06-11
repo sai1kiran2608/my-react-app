@@ -1,3 +1,15 @@
+# User Management Admin Panel
+
+I built a full User Management Admin Panel with:
+
+✅ React frontend (Vite)  
+✅ Node.js backend with Express  
+✅ MySQL + Sequelize ORM  
+✅ Full CRUD: Create, Read, Update, Delete  
+✅ Styled with clean CSS
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
